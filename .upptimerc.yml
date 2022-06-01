@@ -9,6 +9,8 @@ sites:
     url: https://www.locodrivein.com/
   - name: Realtime Labs
     url: https://realtimelab.com/
+  - name: Precision Warehouse
+    url: https://precisionwarehousedesign.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -32,7 +34,5 @@ status-website:
       content: "dark light"
     - name: "robots"
       content: "noindex"
-  workflowSchedule:
-   uptime: "*/15 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

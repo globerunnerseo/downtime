@@ -58,17 +58,19 @@
     "url": "https://precisionwarehousedesign.com/",
     "icon": "https://favicons.githubusercontent.com/precisionwarehousedesign.com",
     "slug": "precision-warehouse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 443,
-    "timeWeek": 304,
-    "timeMonth": 276,
-    "timeYear": 276,
-    "dailyMinutesDown": {}
+    "time": 273,
+    "timeDay": 342,
+    "timeWeek": 297,
+    "timeMonth": 273,
+    "timeYear": 273,
+    "dailyMinutesDown": {
+      "2022-06-14": 0
+    }
   }
 ]
